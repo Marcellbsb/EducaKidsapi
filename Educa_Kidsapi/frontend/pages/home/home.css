@@ -1,0 +1,61 @@
+body{
+    background: #020b8a;
+    height: 100vh;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center;  
+}
+header{
+    margin-top: 10px;
+}
+
+
+    .menu-container {
+        
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Itens com largura mínima de 150px */
+        grid-gap: 10px; /* Espaçamento entre os itens */
+    }
+    a {
+        text-align: center;
+        color: white;
+    }
+    .values {
+        font-family: sans-serif;
+            color: black;
+            position: absolute;
+            top: 110px; 
+            left: 410px;
+            opacity: 0.7;
+        }
+    .dtc1{
+        color:#e81f4d;
+    }
+    .dtc2{
+      color:   #fec60f;
+
+    }
+    .dtc3{
+     color: #7af204 ;  
+    }
+    .educakids {
+        font-size: 25PX;
+        text-align: center;
+        display: block;
+        margin-top: 20px;
+    }
+.img-banner{
+    margin-top: 90px;
+}
+
+.img {
+    text-align: center;
+    background-color: white;
+    margin-top: 5px;
+    width: 100%;
+    height: 50px;
+}
+p{
+    color: white;
+}

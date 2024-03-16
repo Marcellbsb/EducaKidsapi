@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background: #020b8a;
+    height: 100vh;
+    color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+  }
+form {
+    margin-top: -110px;
+    width: 500px;
+    
+}
+
+input {
+    border: none;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+button {
+    margin-top: 10px;
+    width: 520px;
+}
+.cadastro{
+    color: black;
+    border-left: 0px;
+    margin-top: -10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.input-name,
+.input-mail,
+.password,
+.confirm {
+  
+  display: block;
+  margin-bottom: 20px;
+  width: 100%; 
+  padding: 10px; 
+  font-size: 16px; 
+}
+.imgcad{
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.name{
+    margin-top: 80px;
+}
+
+
+
+
+

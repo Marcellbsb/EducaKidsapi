@@ -1,0 +1,52 @@
+button {    
+    font-size: 20px ;
+    margin: 0 auto; 
+    background-color: #0074d9;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-block-end: 20px;
+  }
+  form {
+    
+    margin-top: -130px
+  }
+
+  .name{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1px;
+    margin-top: -120px;
+    color: white;
+
+  }
+  
+    .img-cad{
+        margin-top: 20px;
+        margin: 5px;
+        display: block;
+        width: 20%;     
+    }
+    .name-cad{
+        font-size: 20px;
+    }
+    .mail-cad{
+        font-size: 20px;
+    }
+    .pass-cad{
+        font-size: 20px;
+    }
+    .conf-cad{
+        font-size: 20px;
+    }
+    .solid{
+        margin-top: 20px;
+    }
+    .educakids{ 
+        
+        font-size: 25PX;
+        text-align: center;
+        margin-top: 40px;
+    }
