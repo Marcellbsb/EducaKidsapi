@@ -43,9 +43,9 @@ npm run dev
 cd frontend
 
 ## instalar dependências
--npm create vite
--npm i axios
--npm i
+*npm create vite
+*npm i axios
+*npm i
 
 # executar o projeto
 npm run dev
