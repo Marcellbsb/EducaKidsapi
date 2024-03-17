@@ -20,6 +20,7 @@ header{
     a {
         text-align: center;
         color: white;
+        margin-top: 25px;
     }
     .values {
         font-family: sans-serif;
