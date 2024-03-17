@@ -41,23 +41,3 @@ npm install
 # executar o projeto
 npm run dev
 
-## Front end web
-
-# entrar na pasta do projeto front end web
-cd frontend
-
-# instalar dependências
-npm create vite
-npm install axios
-npm install
-
-# executar o projeto
-npm run dev
-
-# Autores
-
-- **Marcelo Ramos Alves**
-- **Denise Daniela Sartori**
-- **Luiz C Freitas**
-- **Leonardo da Rocha**
-- **Gabriel Bernarde**
