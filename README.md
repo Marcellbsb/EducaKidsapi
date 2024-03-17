@@ -1,51 +1,63 @@
-# EducaKidsapi
+# EducaAçãoKids
 
-                                                        Educa_Acao_Kids
-# EducaKidsapi
+## Sobre o projeto
+EducaAçãoKids é um aplicativo web voltado para a prestação de serviços que reforçam o aprendizado de crianças de classes vulneráveis. Ele foca em proporcionar maior atenção às dificuldades específicas apresentadas por alunos do 1° ao 4° ano do ensino fundamental. A aplicação das metodologias de ensino presentes na plataforma promove não apenas o reforço ao aprendizado, mas também um meio de inclusão social, considerando que muitas crianças podem se sentir constrangidas ou incapazes frente aos desafios da vida escolar.
 
-## Visão Geral
+## Layout web
+As imagens do layout web serão adicionadas aqui. Por favor, substitua os URLs de exemplo pelos reais.
 
-O **EducaKidsapi** é um aplicativo concebido como uma solução tecnológica inovadora e socialmente responsável que visa estabelecer uma ponte entre crianças em condições de vulnerabilidade econômica e social e a educação de qualidade. O projeto transcende a funcionalidade básica de um aplicativo, buscando democratizar o acesso a recursos educativos e promover a inclusão e o empoderamento dos jovens.
+![Web 1](https://example.com/link-to-your-image)
 
-## Missão
+![Web 2](https://example.com/link-to-your-image)
 
-A missão do EducaAçãoKids é construir uma comunidade solidária de educadores e instituições de ensino público, que juntos fornecerão suporte escolar robusto, complementando o ensino regular e impulsionando a jornada de aprendizagem das crianças.
+## Tecnologias utilizadas
+### Back end
+- Express
+- Mongoose
+- Nodemon
+- Cors
 
-## Recursos Personalizados
+### Front end
+- HTML / CSS / JS
+- ReactJS
+- Axios
+- Vite
 
-Com foco na personalização, o aplicativo oferecerá uma variedade de conteúdos alinhados com o perfil individual de cada aluno, incluindo:
+## Como executar o projeto
 
-- Vídeos explicativos
-- Jogos interativos
-- Podcasts educativos
-- Exercícios práticos
+## Back end
+Pré-requisitos: Node.js
 
-Todo material é cuidadosamente selecionado por professores voluntários e instituições parceiras, dedicados a fazer a diferença no cenário educacional.
+```bash
+# clonar repositório
+git clone https://github.com/Marcellbsb/EducaKidsapi.git
 
-## Primeira Fase
+# entrar na pasta do projeto back end
+cd Educa_Kidsapi
 
-Atualmente, o projeto está na fase inicial, desenvolvendo funcionalidades que permitirão às instituições de ensino cadastrar e monitorar o progresso de alunos com dificuldades de aprendizagem e baixo rendimento escolar. Isso inclui:
+# instalar dependências
+npm install
 
-- Cadastro detalhado de alunos
-- Identificação de necessidades de reforço por disciplina
-- Acompanhamento personalizado do desempenho
+# executar o projeto
+npm run dev
 
-## Comece a Contribuir
+## Front end web
 
-Para começar a contribuir com o EducaAçãoKids, siga estes passos:
+# entrar na pasta do projeto front end web
+cd frontend
 
-1. Clone o repositório.
-2. Configure seu ambiente de desenvolvimento.
-3. Consulte a documentação do projeto para entender melhor as funcionalidades em desenvolvimento.
-4. Escolha uma tarefa ou sugira novas funcionalidades.
-5. Faça commits claros e concisos.
-6. Abra uma Pull Request para que sua contribuição seja avaliada.
+# instalar dependências
+npm create vite
+npm install axios
+npm install
 
-## Comece os Commit
+# executar o projeto
+npm run dev
 
-Se você acredita na nossa causa e deseja fazer parte deste movimento, sua contribuição é valiosa para construirmos um futuro onde cada criança pode atingir seu pleno potencial acadêmico.
+# Autores
 
----
-
-EducaKidsapi – Educando e transformando vidas, um aplicativo de cada vez.
-
+- **Marcelo Ramos Alves**
+- **Denise Daniela Sartori**
+- **Luiz C Freitas**
+- **Leonardo da Rocha**
+- **Gabriel Bernarde**
