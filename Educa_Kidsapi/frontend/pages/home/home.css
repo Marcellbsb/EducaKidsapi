@@ -23,7 +23,7 @@ header{
     }
     .values {
         font-family: sans-serif;
-            color: black;
+            color: rgb(233, 230, 230);
             position: absolute;
             top: 110px; 
             left: 410px;
