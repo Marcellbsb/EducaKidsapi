@@ -47,5 +47,5 @@ Se você acredita na nossa causa e deseja fazer parte deste movimento, sua contr
 
 ---
 
-EducaAçãoKids – Educando e transformando vidas, um aplicativo de cada vez.
+EducaKidsapi – Educando e transformando vidas, um aplicativo de cada vez.
 
