@@ -36,8 +36,6 @@ cd Educa_Kidsapi
 # executar o projeto
 npm run dev
 
-<<<<<<< HEAD
-=======
 
 ## Front end web
 
