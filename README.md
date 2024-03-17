@@ -36,18 +36,16 @@ cd Educa_Kidsapi
 # executar o projeto
 npm run dev
 
-<<<<<<< HEAD
-=======
 
 ## Front end web
 
 # entrar na pasta do projeto front end web
 cd frontend
 
-# instalar dependências
-npm create vite
-npm i axios
-npm i
+## instalar dependências
+*npm create vite
+*npm i axios
+*npm i
 
 # executar o projeto
 npm run dev
@@ -62,5 +60,8 @@ Leonardo da Rocha
 Gabriel Bernarde
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2f0c217ca036216498415951209bd06ea92aedcf
