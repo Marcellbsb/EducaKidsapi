@@ -16,10 +16,14 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
 - Nodemon
 - Cors
 ## Front end
-- HTML / CSS / JS / 
-- ReactJS
-- Axios
-- Vite
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>React</li>
+  <li>TypeScript</li>
+</ul>
+
 
 # Como executar o projeto
 
