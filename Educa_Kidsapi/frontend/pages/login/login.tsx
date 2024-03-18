@@ -76,7 +76,7 @@ function LoginPage() {
             placeholder="Confirmar Senha"
             onChange={(event) => setNewSenhafc(event.target.value)}
           />
-          <Link to="/register" onClick={ () => newUser() }>CADASTRAR
+          <Link to="/register" onClick={ () => newUser() } className="btn">CADASTRAR
           </Link>
           <div>
             
