@@ -26,7 +26,7 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
 
 # Conexão com Banco de dados
 
-![Web 1]()
+![Web 1](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/database.png)
 
 
 # Como executar o projeto
