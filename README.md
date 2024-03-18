@@ -7,7 +7,7 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
 ## Layout web
 ![Web 1](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/EducaKidshome.png)
 
-![Web 2](https://)
+![Web 2](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/logineduca.png)
 
 # Tecnologias utilizadas
 ## Back end
