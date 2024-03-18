@@ -5,7 +5,7 @@ EducaAçãoKids é um aplicativo web que consiste na prestação de serviços qu
 A aplicação das metodologias de ensino presentes nessa aplicação promovem além do reforço ao aprendizado, também um meio de inclusão social, visto que muitas crianças se sentem constrangidas ou incapazes diante dos desafios da vida escolar.
 
 ## Layout web
-![Web 1](https://)
+![Web 1](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/EducaKidshome.png)
 
 ![Web 2](https://)
 
