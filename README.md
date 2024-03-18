@@ -24,6 +24,10 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
   <li>TypeScript</li>
 </ul>
 
+# Conexão com Banco de dados
+
+![Web 1]()
+
 
 # Como executar o projeto
 
