@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import React from 'react';
+import '../../pages/sign-in/signin.jsx'
 import '../sign-in/signin.css'
 import HomePage from '../home/home.tsx';
 
@@ -11,17 +12,18 @@ const api = axios.create({
 });
 
 function SigninPage () {
+  const [user, setUser] = useState ('');
   const [email, setNewEmail] = useState('');
   const [senha, setNewSenha] = useState('');
 
   useEffect(() => {
-    api.get('/alunos').then((response) => {
+    api.get('/').then((response) => {
       console.log(response.data);
-      setAlunos(response.data);
+      setUser(response.data);
     });
   }, []);
 
-  function newStudent() {
+  function login() {
     api
       .post('/login', {
         email,
@@ -60,8 +62,8 @@ function SigninPage () {
             onChange={(event) => setNewSenha(event.target.value)}
           />
         </form>
-        <button onClick={() => newStudent()}>Enviar</button>
-        {/* */}
+        <button onClick={() => login()}>Entrar</button>
+        
       </div>
     );
     

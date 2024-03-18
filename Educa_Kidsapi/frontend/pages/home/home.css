@@ -20,11 +20,10 @@ header{
     a {
         text-align: center;
         color: white;
-        margin-top: 25px;
     }
     .values {
         font-family: sans-serif;
-            color: rgb(233, 230, 230);
+            color: black;
             position: absolute;
             top: 110px; 
             left: 410px;
