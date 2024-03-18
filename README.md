@@ -1,4 +1,4 @@
-Crie tudo junto um arquivo em readme.md o seguinte texto: # EducaAçãoKids
+# EducaAçãoKids
 
 # Sobre o projeto
 EducaAçãoKids é um aplicativo web que consiste na prestação de serviços que reforçam o aprendizado de crianças de classes vulneráveis, propiciando uma maior atenção em dificuldades específicas apresentadas por alunos do 1° ao 4° ano do ensino fundamental.
