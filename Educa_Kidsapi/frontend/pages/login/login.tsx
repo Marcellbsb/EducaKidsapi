@@ -21,7 +21,7 @@ function LoginPage() {
 
   function newUser() {
     api
-      .post('/cadastro', {
+      .post('/register', {
         name,
         email,
         senha,
@@ -76,7 +76,8 @@ function LoginPage() {
             placeholder="Confirmar Senha"
             onChange={(event) => setNewSenhafc(event.target.value)}
           />
-          <button onClick={() => newUser()}>CADASTRAR</button>
+          <Link to="/register" onClick={ () => newUser() }>CADASTRAR
+          </Link>
           <div>
             
           </div>
