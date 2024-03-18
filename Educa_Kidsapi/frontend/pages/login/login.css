@@ -24,6 +24,23 @@ button {
     margin-top: 10px;
     width: 520px;
 }
+
+.btn {
+  font-size: 20px;
+  margin: 0 auto;
+  background-color: #0074d9;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-block-end: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
 .cadastro{
     color: black;
     border-left: 0px;
