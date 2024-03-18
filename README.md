@@ -71,8 +71,4 @@ Leonardo da Rocha
 Gabriel Bernarde
 
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 2f0c217ca036216498415951209bd06ea92aedcf
