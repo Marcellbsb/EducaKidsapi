@@ -1,7 +1,7 @@
 # EducaAçãoKids
 
 # Sobre o projeto
-EducaAçãoKids é um aplicativo web que consiste na prestação de serviços que reforçam o aprendizado de crianças de classes vulneráveis, propiciando uma maior atenção em dificuldades específicas apresentadas por alunos do 1° ao 4° ano do ensino fundamental.
+EducaAçãoKids é uma aplicação web que consiste na prestação de serviços que reforçam o aprendizado de crianças de classes vulneráveis, propiciando uma maior atenção em dificuldades específicas apresentadas por alunos do 1° ao 4° ano do ensino fundamental.
 A aplicação das metodologias de ensino presentes nessa aplicação promovem além do reforço ao aprendizado, também um meio de inclusão social, visto que muitas crianças se sentem constrangidas ou incapazes diante dos desafios da vida escolar.
 
 ## Layout web
