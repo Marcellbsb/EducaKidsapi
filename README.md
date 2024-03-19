@@ -30,7 +30,7 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
 
 ![Web 1](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/mongo1.png)
 
-![Web 1](https://github.com/Marcellbsb/Educa_Acao_Kids/blob/main/frontend.png
+![Web 1](https://github.com/Marcellbsb/arquivos-educakidsapi/blob/main/Captura%20de%20Tela%20(286).png
 )
 
 
