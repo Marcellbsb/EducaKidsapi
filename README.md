@@ -35,6 +35,11 @@ A aplicação das metodologias de ensino presentes nessa aplicação promovem al
 
 
 
+https://github.com/Marcellbsb/EducaKidsapi/assets/108234188/1b8cc5da-03ce-406f-be0f-2e0cf8eb4bd6
+
+
+
+
 
 
 # Como executar o projeto
@@ -74,6 +79,15 @@ Denise Daniela Sartori
 Luiz C Freitas
 Leonardo da Rocha
 Gabriel Bernarde
+
+
+
+
+
+
+
+
+
 
 
 <<<<<<< HEAD
