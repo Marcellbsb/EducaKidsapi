@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 import React from 'react';
 import '../../pages/login/login.css'
-import HomePage from '../home/home.tsx';
+import '../../pages/login/login.jsx'
+
 const api = axios.create({
   baseURL: 'http://localhost:3001',
 });
@@ -41,7 +42,7 @@ function LoginPage() {
       <div className='educakids'><h1><span className="dtc1" >E</span>duca<span className="dtc2" >A</span>ção<span className="dtc3" >K</span>ids</h1></div>       
         <div className="registration-form">
           <div className="name-cad">
-            <label>NOME</label>
+            <label>Nome</label>
           </div>
           <input
             className="input-name"
@@ -50,7 +51,7 @@ function LoginPage() {
             onChange={(event) => setNewUser(event.target.value)}
           />
           <div className="mail-cad">
-            <label>EMAIL</label>
+            <label>Email</label>
           </div>
           <input
             className="input-mail"
@@ -59,7 +60,7 @@ function LoginPage() {
             onChange={(event) => setNewEmail(event.target.value)}
           />
           <div className="pass-cad">
-            <label>SENHA</label>
+            <label>Senha</label>
           </div>
           <input
             className="password"
@@ -68,7 +69,7 @@ function LoginPage() {
             onChange={(event) => setNewSenha(event.target.value)}
           />
           <div className="conf-cad">
-            <label>CONFIRMAR</label>
+            <label>Confirmar</label>
           </div>
           <input
             className="confirm"
@@ -76,7 +77,7 @@ function LoginPage() {
             placeholder="Confirmar Senha"
             onChange={(event) => setNewSenhafc(event.target.value)}
           />
-          <button onClick={() => newUser()}>CADASTRAR</button>
+          <button onClick={() => newUser()}>Cadastrar</button>
           <div>
             
           </div>
